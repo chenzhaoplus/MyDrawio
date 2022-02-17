@@ -1,0 +1,121 @@
+<mxfile host="65bd71144e">
+    <diagram id="OC20e0aGs6rGsUfmPsck" name="第 1 页">
+        <mxGraphModel dx="1374" dy="800" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" background="#333333" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="5" value="" style="edgeStyle=none;html=1;" parent="1" source="38" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="160" y="410" as="sourcePoint"/>
+                        <mxPoint x="230" y="410" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="7" value="" style="edgeStyle=none;html=1;" parent="1" source="37" target="6" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="380" y="410" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="9" value="" style="edgeStyle=none;html=1;" parent="1" source="6" target="8" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;shadow=1;fontColor=default;" edge="1" parent="1" target="45">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="490" y="418" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="6" value="比对认证库" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
+                    <mxGeometry x="430" y="380" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="1" source="8" target="34">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="504" y="634" as="sourcePoint"/>
+                        <mxPoint x="661.5" y="730" as="targetPoint"/>
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="31" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="30">
+                    <mxGeometry x="0.1892" y="-3" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="50" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=1;fontColor=default;" edge="1" parent="1" source="17" target="36">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="是否重点人员" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
+                    <mxGeometry x="978" y="666" width="93.5" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="否" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="22" target="32">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="是否属于不比对的小区" style="rhombus;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
+                    <mxGeometry x="624.5" y="213" width="170" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="是" style="edgeStyle=orthogonalEdgeStyle;html=1;shadow=1;fontColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="57" target="41">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="是" style="edgeStyle=orthogonalEdgeStyle;html=1;shadow=1;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="57" target="56">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1537.5" y="568" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="1155" y="381"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="58" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;shadow=1;fontColor=default;" edge="1" parent="1" source="32" target="57">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="比对陌生人库" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+                    <mxGeometry x="888.5" y="223" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="&lt;span&gt;TOPIC_PERSON_DOC_RECORD&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+                    <mxGeometry x="666" y="500" width="223.5" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=1;fontColor=default;" edge="1" parent="1" source="35" target="17">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="&lt;span&gt;TOPIC_FACE_COMPARE_RECORD&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+                    <mxGeometry x="666" y="666" width="220" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="&lt;span&gt;TOPIC_IMPORTANT_PERSON_FACE_RECORD&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+                    <mxGeometry x="1182.25" y="666" width="310" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="DWD_FACE_RECORD" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="380" width="140" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="TOPIC_FACE_RECORD" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="380" width="140" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="是" style="edgeStyle=orthogonalEdgeStyle;html=1;shadow=1;fontColor=default;" edge="1" parent="1" source="41" target="43">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="是否新的陌生人" style="rhombus;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="1309" y="213" width="147" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" value="ods_basic_info.doc_stranger_info" style="ellipse;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="1549.5" y="223" width="221.5" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="是否认证人员" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
+                    <mxGeometry x="438.5" y="213" width="103" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="否" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="45" target="22">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="687" y="588" as="targetPoint"/>
+                        <mxPoint x="552" y="588" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="53" value="是" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=1;fontColor=default;" edge="1" parent="1" source="8" target="35">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="是否认证人员" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="438.5" y="500" width="103" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="&lt;span&gt;TOPIC_PERSON_DOC_RECORD&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+                    <mxGeometry x="1309" y="338" width="223.5" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" value="是否陌生人" style="rhombus;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="1081" y="213" width="147" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
